@@ -1,6 +1,7 @@
 # spring-cloud-eureka-server
 eureka server
-> RestTemplate 请求协议接口:ClientHttpRequestFactory
+> Http 消息转换器:HttpMessageConvertor
+> RestTemplate Http适配工厂:ClientHttpRequestFactory
 > RestTemplate 请求拦截器:ClientHttpRequestInterceptor
 > LoadBalancerClient
 > ILoadBalancer
